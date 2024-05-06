@@ -15,6 +15,7 @@ Note: For users with a stronger GPU that supports Metal 3 games will run MUCH be
 
 # Steam Issues w/ Crossover 24(and older versions possibly)
 - Steam crashes while downloading
+- For DXVK to work properly you need to use [CXPatcher(MoltenVK+DXVK)](https://github.com/italomandara/CXPatcher "CXPatcher(MoltenVK+DXVK)")
 - DO NOT SAVE LOGIN! Causes issue with ram increasing while loading and steam will sometimes instantly crash.
 - Most likely due to a ram issue with the way crossover wine runs steam
   - Current fix I am using is to close explorer.exe in the crossover settings(Control Panels setting in the steam settings bottle)
