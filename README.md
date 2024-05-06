@@ -3,7 +3,17 @@ Guide + Testing of games on a AMD Hackintosh (RX580[Metal 2] | Ryzen 5 3600)
 A guide will be released later on how I was able to get the games pictured below running and testing playability
 Note: For users with a stronger GPU that supports Metal 3 games will run MUCH better using D3DMetal feature in CrossOver(With moltenVK CXPatcher)
 
-# Steam Issues w/ Crossover 24(and older versions posisbly)
+## Table of Contents
+- [Steam Issues w/ Crossover 24(and older versions possibly)](#steam-issues-w-crossover-24and-older-versions-possibly)
+- [Tweaks (OPTIONAL)](#tweaks-optional)
+  - [Disable spotlight](#disable-spotlight)
+  - [Reduce Motion & Transparency](#reduce-motion--transparency)
+- [Currently Tested Games](#currently-tested-games)
+  - [Genshin Impact](#genshin-impact)
+  - [Sleeping Dogs Definitive Edition](#sleeping-dogs-definitive-edition)
+  - [Palworld](#palworld)
+
+# Steam Issues w/ Crossover 24(and older versions possibly)
 - Steam crashes while downloading
 - DO NOT SAVE LOGIN! Causes issue with ram increasing while loading and steam will sometimes instantly crash.
 - Most likely due to a ram issue with the way crossover wine runs steam
@@ -22,7 +32,6 @@ sudo mdutil -i off -a
 
 # Re-enable spotlight
 # sudo mdutil -i on -a
-
 ```
   
 ## Reduce Motion & Transparency
@@ -35,7 +44,7 @@ defaults write com.apple.universalaccess reduceTransparency -int 1
 ```
 
 
-# W.I.P(Currently tested games so far)
+# Currently Tested Games
 
 # Genshin Impact
 
