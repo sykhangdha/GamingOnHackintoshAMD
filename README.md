@@ -1,5 +1,5 @@
 # GamingOnHackintoshAMD
-Guide + Testing of games on a AMD Hackintosh (RX580 | Ryzen 5 3600)
+Guide + Testing of games on a AMD Hackintosh (RX580[Metal 2] | Ryzen 5 3600)
 A guide will be released later on how I was able to get the games pictured below running and testing playability
 Note: For users with a stronger GPU that supports Metal 3 games will run MUCH better using D3DMetal feature in CrossOver(With moltenVK CXPatcher)
 
