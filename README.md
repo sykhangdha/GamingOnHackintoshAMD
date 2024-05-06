@@ -48,21 +48,21 @@ defaults write com.apple.universalaccess reduceTransparency -int 1
 
 # Currently Tested Games
 
-# Genshin Impact
+# Genshin Impact(YAAGL)
 
 ![](http://i.epvpimg.com/339jcab.jpg)
 
 <br>Status: Works! | Uses yet another anime game launcher(look it up) and set wine environment to unstable-bh-1.2 to fix game crashing. Basically native performance using windows.</br>
 **IMPORTANT: Use at your own risk. Have not been banned yet but this launcher does techincally bypass the anti-cheat**
 
-# Sleeping Dogs Definitive Edition
+# Sleeping Dogs Definitive Edition(Crossover 24 + Steam)
 
 ![](http://i.epvpimg.com/DEddaab.jpg)
 
 Status: Works(Mostly with one major bug) | Playable, but when playing with my original screen resolution(1920x1080) caused the textures to be blurry no matter what. Lowering the resolution fixed it and you must set the 3D settings in the game lower. 
 
 
-# Palworld
+# Palworld(Crossover 24 + Steam)
 
 ![](http://i.epvpimg.com/RPVEeab.jpg)
 
