@@ -1,7 +1,8 @@
 # GamingOnHackintoshAMD
 Guide + Testing of games on a AMD Hackintosh (RX580[Metal 2] | Ryzen 5 3600)
 A guide will be released later on how I was able to get the games pictured below running and testing playability
-Note: For users with a stronger GPU that supports Metal 3 games will run MUCH better using D3DMetal feature in CrossOver(With moltenVK CXPatcher)
+<br>Note: For users with a stronger GPU that supports Metal 3 games will run MUCH better using D3DMetal feature in CrossOver(With moltenVK CXPatcher)</br>
+**IMPORTANT: Any games with kernel level anticheat will NOT work(unless there is a bypass such as Genshin impact. Proton is needed for Easy Anti-cheat games to work which MacOS does not have**
 
 ## Table of Contents
 - [Steam Issues w/ Crossover 24(and older versions possibly)](#steam-issues-w-crossover-24and-older-versions-possibly)
@@ -51,13 +52,15 @@ defaults write com.apple.universalaccess reduceTransparency -int 1
 
 ![](http://i.epvpimg.com/339jcab.jpg)
 
-Status: Works! | Uses yet another anime game launcher(look it up) and set wine environment to unstable-bh-1.2 to fix game crashing. Basically native performance using windows
+<br>Status: Works! | Uses yet another anime game launcher(look it up) and set wine environment to unstable-bh-1.2 to fix game crashing. Basically native performance using windows.</br>
+**IMPORTANT: Use at your own risk. Have not been banned yet but this launcher does techincally bypass the anti-cheat**
 
 # Sleeping Dogs Definitive Edition
 
 ![](http://i.epvpimg.com/DEddaab.jpg)
 
 Status: Works(Mostly with one major bug) | Playable, but when playing with my original screen resolution(1920x1080) caused the textures to be blurry no matter what. Lowering the resolution fixed it and you must set the 3D settings in the game lower. 
+
 
 # Palworld
 
