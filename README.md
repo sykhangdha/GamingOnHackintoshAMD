@@ -10,9 +10,9 @@ A guide will be released later on how I was able to get the games pictured below
   - [Disable spotlight](#disable-spotlight)
   - [Reduce Motion & Transparency](#reduce-motion--transparency)
 - [Currently Tested Games](#currently-tested-games)
-  - [Genshin Impact](#genshin-impact)
-  - [Sleeping Dogs Definitive Edition](#sleeping-dogs-definitive-edition)
-  - [Palworld](#palworld)
+  - [Genshin Impact(YAAGL)](#genshin-impactyaagl)
+  - [Sleeping Dogs Definitive Edition(Crossover 24 + Steam)](#sleeping-dogs-definitive-editioncrossover-24--steam)
+  - [Palworld(Crossover 24 + Steam)](#palworldcrossover-24--steam)
 
 # Steam Issues w/ Crossover 24(and older versions possibly)
 - Steam crashes while downloading
