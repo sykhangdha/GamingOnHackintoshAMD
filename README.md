@@ -5,6 +5,12 @@ Note: For users with a stronger GPU that supports Metal 3 games will run MUCH be
 
 # W.I.P(Currently tested games so far)
 
+# Genshin Impact
+
+![](http://i.epvpimg.com/339jcab.jpg)
+
+Status: Works! | Uses yet another anime game launcher(look it up) and set wine environment to unstable-bh-1.2 to fix game crashing. Basically native performance using windows
+
 # Sleeping Dogs Definitive Edition
 
 ![](http://i.epvpimg.com/DEddaab.jpg)
@@ -16,3 +22,4 @@ Status: Works(Mostly with one major bug) | Playable, but when playing with my or
 ![](http://i.epvpimg.com/RPVEeab.jpg)
 
 Status: Works | Loading into the game takes a VERY long time intially. The game will freeze when creating a world for a bit as textures load and when the world loads in as well. After the game runs fine with low/medium settings. So far no major texture issues.
+
