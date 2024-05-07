@@ -54,7 +54,7 @@ defaults write com.apple.universalaccess reduceTransparency -int 1
 ```
 
 
-# Currently Tested Games
+# Currently Tested Games(Note: Only Directx11 games will work for Metal 2, for users with Metal 3 there is Directx12 support)
 
 # Genshin Impact(YAAGL)
 
