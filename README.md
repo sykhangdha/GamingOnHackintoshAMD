@@ -6,6 +6,7 @@ A guide will be released later on how I was able to get the games pictured below
 
 ## Table of Contents
 - [Steam Issues w/ Crossover 24(and older versions possibly)](#steam-issues-w-crossover-24and-older-versions-possibly)
+- [Native Mac Games](native-mac-games)
 - [Tweaks (OPTIONAL)](#tweaks-optional)
   - [Disable spotlight](#disable-spotlight)
   - [Reduce Motion & Transparency](#reduce-motion--transparency)
@@ -23,6 +24,9 @@ A guide will be released later on how I was able to get the games pictured below
   - Disable GPU accelerated + Smooth scrolling in steam settings
   - Low peformance mode enabled (Steam settings -> Library)
 - This fixes steam crashing constantly, but when downloading it may crash after sometime. Usually going into activity monitor(the macOS utility) and closing all the ".exe" and then running steam again in crossover will run again. (Reboot PC if steam still doesn't open). The optional tweaks below are what I used that helped steam/games run slightly better
+
+# Native Mac Games
+- Works perfectly fine(main games tested are Steam for Mac games and League of Legends)
 
 # Tweaks(OPTIONAL)
 
