@@ -1,12 +1,12 @@
 # GamingOnHackintoshAMD
 Guide + Testing of games on a AMD Hackintosh (RX580[Metal 2] | Ryzen 5 3600)
-A guide will be released later on how I was able to get the games pictured below running and testing playability
 <br>Note: For users with a stronger GPU that supports Metal 3 games will run MUCH better using D3DMetal feature in CrossOver(With moltenVK CXPatcher)</br>
 **IMPORTANT: Any games with kernel level anticheat will NOT work(unless there is a bypass such as Genshin impact. Proton is needed for Easy Anti-cheat games to work which MacOS does not have**
 
 ## Table of Contents
+- [OpenCore Guide](#opencore-guide)
 - [Steam Issues w/ Crossover 24(and older versions possibly)](#steam-issues-w-crossover-24and-older-versions-possibly)
-- [Native Mac Games](native-mac-games)
+- [Native Mac Games](#native-mac-games)
 - [Tweaks (OPTIONAL)](#tweaks-optional)
   - [Disable spotlight](#disable-spotlight)
   - [Reduce Motion & Transparency](#reduce-motion--transparency)
@@ -14,6 +14,10 @@ A guide will be released later on how I was able to get the games pictured below
   - [Genshin Impact(YAAGL)](#genshin-impactyaagl)
   - [Sleeping Dogs Definitive Edition(Crossover 24 + Steam)](#sleeping-dogs-definitive-editioncrossover-24--steam)
   - [Palworld(Crossover 24 + Steam)](#palworldcrossover-24--steam)
+
+# OpenCore Guide
+- [OpenCore Install Guide(PLEASE READ FULLY)](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/ "OpenCore Install Guide(PLEASE READ FULLY)")
+- [Dr-Dreams OpenCore Files](https://github.com/Dr-Dreams/ASROCK-B450M-PRO4-HACKINTOSH "Dr-Dreams OpenCore Files")
 
 # Steam Issues w/ Crossover 24(and older versions possibly)
 - Steam crashes while downloading
