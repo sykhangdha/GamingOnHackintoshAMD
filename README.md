@@ -1,7 +1,7 @@
 # GamingOnHackintoshAMD
 Guide + Testing of games on a AMD Hackintosh (RX580[Metal 2] | Ryzen 5 3600)
 <br>Note: For users with a stronger GPU that supports Metal 3 games will run MUCH better using D3DMetal feature in CrossOver(With moltenVK CXPatcher)</br>
-**IMPORTANT: Any games with kernel level anticheat will NOT work(unless there is a bypass such as Genshin impact. Proton is needed for Easy Anti-cheat games to work which MacOS does not have**
+**IMPORTANT: Any games with kernel level anticheat will NOT work(unless there is a bypass such as Genshin impact. Proton is needed for Easy Anti-cheat games to work which MacOS does not have. Also for users using Metal 2(such as the RX580) does NOT have DX12 support for Mac**
 
 ## Table of Contents
 - [OpenCore Guide](#opencore-guide)
@@ -67,7 +67,7 @@ defaults write com.apple.universalaccess reduceTransparency -int 1
 
 ![](http://i.epvpimg.com/DEddaab.jpg)
 
-Status: Works(Mostly with one major bug) | Playable, but when playing with my original screen resolution(1920x1080) caused the textures to be blurry no matter what. Lowering the resolution fixed it and you must set the 3D settings in the game lower. 
+Status: Works(Mostly with one major bug) | Playable, but when playing with my original screen resolution(1920x1080) caused the textures to be blurry no matter what. Lowering the resolution fixed it and you must set the 3D settings in the game lower. Note: There is a Mac version of this game available on Steam for Mac that uses openGL
 
 
 # Palworld(Crossover 24 + Steam)
