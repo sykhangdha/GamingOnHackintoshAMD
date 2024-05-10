@@ -14,6 +14,7 @@ Guide + Testing of games on a AMD Hackintosh (RX580[Metal 2] | Ryzen 5 3600)
   - [Genshin Impact(YAAGL)](#genshin-impactyaagl)
   - [Sleeping Dogs Definitive Edition(Crossover 24 + Steam)](#sleeping-dogs-definitive-editioncrossover-24--steam)
   - [Palworld(Crossover 24 + Steam)](#palworldcrossover-24--steam)
+- [VirtualBox](#virtualbox)
 
 # OpenCore Guide
 - [OpenCore Install Guide(PLEASE READ FULLY)](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/ "OpenCore Install Guide(PLEASE READ FULLY)")
@@ -28,6 +29,8 @@ Guide + Testing of games on a AMD Hackintosh (RX580[Metal 2] | Ryzen 5 3600)
   - Disable GPU accelerated + Smooth scrolling in steam settings
   - Low peformance mode enabled (Steam settings -> Library)
 - This fixes steam crashing constantly, but when downloading it may crash after sometime. Usually going into activity monitor(the macOS utility) and closing all the ".exe" and then running steam again in crossover will run again. (Reboot PC if steam still doesn't open). The optional tweaks below are what I used that helped steam/games run slightly better
+
+---------------------------------------------
 
 # Native Mac Games
 - Works perfectly fine(main games tested are Steam for Mac games and League of Legends)
@@ -53,6 +56,7 @@ defaults write com.apple.universalaccess reduceMotion -int 1
 defaults write com.apple.universalaccess reduceTransparency -int 1
 ```
 
+---------------------------------------------
 
 # Currently Tested Games(Note: Only Directx11 games will work for Metal 2, for users with Metal 3 there is Directx12 support)
 
@@ -76,3 +80,7 @@ Status: Works(Mostly with one major bug) | Playable, but when playing with my or
 
 Status: Works | Loading into the game takes a VERY long time intially. The game will freeze when creating a world for a bit as textures load and when the world loads in as well. After the game runs fine with low/medium settings. So far no major texture issues.
 
+---------------------------------------------
+
+# VirtualBox
+Newer virtualization programs will NOT work on AMD CPUs(this includes newer versions of vbox and unfortunately Parallels as well). The last version working for AMD is VirtualBox 6.1 as it still uses Hyper-V and does not include the new Apple virtualization that only works on the newer Mac chips. You can search up VirtualBox 6.1 or download the installation file in the 'Addons' folder available on the github.
