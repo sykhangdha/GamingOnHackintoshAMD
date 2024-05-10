@@ -83,4 +83,4 @@ Status: Works | Loading into the game takes a VERY long time intially. The game 
 ---------------------------------------------
 
 # VirtualBox
-Newer virtualization programs will NOT work on AMD CPUs(this includes newer versions of vbox and unfortunately Parallels as well). The last version working for AMD is VirtualBox 6.1 as it still uses Hyper-V and does not include the new Apple virtualization that only works on the newer Mac chips. You can search up VirtualBox 6.1 or download the installation file in the 'Addons' folder available on the github.
+Newer virtualization programs will NOT work on AMD CPUs(this includes newer versions of vbox and unfortunately Parallels as well). The last version working for AMD is VirtualBox 6.1 as it still uses Hyper-V and does not include the new Apple virtualization that only works on the newer Mac chips. Download [HERE](https://download.virtualbox.org/virtualbox/6.1.50/VirtualBox-6.1.50-161033-OSX.dmg)
